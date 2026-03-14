@@ -2,6 +2,14 @@
 
 Repozitář obsahuje výkladové notebooky, týdenní úkoly a navazující materiály k předmětu **Vědecké výpočty v Pythonu** pro běh **letního semestru 2025/2026 (LS 25/26)**.
 
+## Student information
+
+Name: Yelizaveta Belyaeva  
+Student ID: BEL0178
+
+This repository contains my work for the course *Vědecké výpočty v Pythonu*.
+
+
 Harmonogram, organizační informace a deadliny jsou na [LMS](https://lms.vsb.cz).
 
 ## Rychlý start (Codespaces / devcontainer)
